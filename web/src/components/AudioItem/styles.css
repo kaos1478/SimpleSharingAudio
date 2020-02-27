@@ -1,0 +1,16 @@
+div#AudioItem {
+    background: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+div#AudioItem audio {
+    width: 100%;
+}
+
+div#AudioItem header {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
